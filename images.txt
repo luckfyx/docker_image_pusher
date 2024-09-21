@@ -1,2 +1,2 @@
 tdengine/tdengine:latest
-grafana/grafana:latest
+grafana/grafana:9.3.6
