@@ -1,4 +1,4 @@
 tdengine/tdengine:3.3.0.0
 grafana/grafana:9.3.6
 influxdb:2
-mysql:lastest
+mysql:latest
