@@ -2,5 +2,4 @@ tdengine/tdengine:3.3.0.0
 grafana/grafana:9.3.6
 influxdb:2
 mysql:8.0.36
-portainer:2.25.0
 portainer:latest
